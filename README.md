@@ -1,3 +1,9 @@
 # ThreeJS
 
-![CubeThreeJS](https://user-images.githubusercontent.com/106937501/192276153-7242385e-e8ed-4f6e-8b33-7076131995a2.gif)
+<h3>
+
+Getting to know the threejs library to improve my knowledge and develop future projects to use resources from such a content-rich library, special thanks to the threejs group and the creators of such a library.
+<br>This project is simple and can be easily replicated by reading the library's official documentation, available at <https://threejs.org/docs/#manual/en/introduction/Creating-a-scene>. <br><br>
+
+
+ ![CubeThreeJS](https://user-images.githubusercontent.com/106937501/192276663-7ba3b1d8-7331-462f-a193-56fb8ef3396b.gif)
