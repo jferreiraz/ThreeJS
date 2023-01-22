@@ -1,6 +1,6 @@
 # ThreeJS
 
-<h3>
+<h2>
 
 Getting to know the threejs library to improve my knowledge and develop future projects to use resources from such a content-rich library.<br>
 <br>This project is simple and can be easily replicated by reading the library's official documentation, available at <https://threejs.org/docs/#manual/en/introduction/Creating-a-scene>. <br><br>
